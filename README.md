@@ -1,4 +1,5 @@
 🔐 Key Lock System
+
 📖 Description:
 
 The Key Lock System is a Python-based security management application that provides user authentication and access control. The system allows users to register, log in, change passwords, reset forgotten passwords using an access code, and maintain activity logs. It also includes a security mechanism that locks accounts after multiple failed login attempts, helping to protect user accounts from unauthorized access.
